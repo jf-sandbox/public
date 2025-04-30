@@ -1,0 +1,10 @@
+{
+    "name": "jf-demo",
+    "version": "1.0.0",
+    "dependencies":
+    {
+        "rets": "0.0.1",
+        "es5-ext": "0.10.50",
+        "pac-resolver": "7.0.1"
+    }
+}
